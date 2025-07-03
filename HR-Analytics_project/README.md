@@ -1,7 +1,7 @@
 # HR Data Analytics – HR Domain  
 **Tools Used:** Power BI, Microsoft Excel  
 **Project Type:** HR Dashboard and Automation  
-**Author:** [Your Name]
+**Author:** KR Nandeesha
 
 ## 📊 Project Overview
 
